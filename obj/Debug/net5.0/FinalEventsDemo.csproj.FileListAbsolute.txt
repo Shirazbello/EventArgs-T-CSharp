@@ -1,0 +1,16 @@
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.csprojAssemblyReference.cache
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.AssemblyInfoInputs.cache
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.AssemblyInfo.cs
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.csproj.CoreCompileInputs.cache
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\bin\Debug\net5.0\FinalEventsDemo.exe
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\bin\Debug\net5.0\FinalEventsDemo.deps.json
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\bin\Debug\net5.0\FinalEventsDemo.runtimeconfig.json
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\bin\Debug\net5.0\FinalEventsDemo.runtimeconfig.dev.json
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\bin\Debug\net5.0\FinalEventsDemo.dll
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\bin\Debug\net5.0\ref\FinalEventsDemo.dll
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\bin\Debug\net5.0\FinalEventsDemo.pdb
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.dll
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\ref\FinalEventsDemo.dll
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.pdb
+C:\Users\AYZ-SZS\Desktop\SHIRAZ\ShirazCSHARP\FinalEventsDemo\obj\Debug\net5.0\FinalEventsDemo.genruntimeconfig.cache
